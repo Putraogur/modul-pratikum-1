@@ -80,7 +80,7 @@ Gol yang dicetak dalam perpanjangan waktu akan dihitung menjadi skor akhir perta
 </div>
 
 <div class="box">
-    <h1 style="color: #48D1CC; font-size: 20px; font-family: Arial; ">GTA V di PS5</h2>
+    <h1 style="color: #48D1CC; font-size: 20px; font-family: Arial; ">sejarah sepak bola</h2>
     <p class="left">
         Kejuaraan sepak bola internasional terbesar ialah Piala Dunia yang diselenggarakan oleh Fédération Internationale de Football Association (FIFA).[14] Piala Dunia diadakan setiap empat tahun sekali dan dimulai di Uruguay pada tahun 1930.[14] Pencetus ide tersebut adalah Jules Rimet, seorang pengacara dan pengusaha Prancis yang terinspirasi setelah menonton Olimpiade Paris tahun 1924.[14]
 
